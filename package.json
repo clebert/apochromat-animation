@@ -32,12 +32,12 @@
     "start": "node example.js"
   },
   "devDependencies": {
-    "@apochromat/print": "^0.1.2",
+    "@apochromat/print": "^0.1.3",
     "@onecmd/standard-plugins": "^0.11.0",
     "npm-run-all": "^4.1.5"
   },
   "peerDependencies": {
-    "apochromat": "^0.5.0"
+    "apochromat": "^0.6.0"
   },
   "publishConfig": {
     "access": "public"
